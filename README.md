@@ -32,6 +32,14 @@ gitbook <pdf|epub|mobi>
 
 ## 下载
 
+### PYPI
+
+```
+pip install dataviz-zh
+dataviz-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
